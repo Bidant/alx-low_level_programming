@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - program that prints the numbers from 01 to 89
  *
  * Numbers must be separated by , followed by a space
